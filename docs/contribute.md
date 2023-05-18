@@ -4,6 +4,8 @@ If you want to contribute to this docuementation, you can get the raw documentat
 
 [Test the raw documentation](/raw/contribute)
 
+Or, get all of our documentation on [this GitHub Repo](https://github.com/ArticOff/interact-api-docs).
+
 When your have a raw documentation, you can copy it directly and paste it into your project, then you can do any changes you want to make in the documentation.
 
 When you have finished changing the documentation, you can join our [Discord server](https://discord.com/invite/JdJKQHFSRJ) and send us your documentation.
