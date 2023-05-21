@@ -27,6 +27,9 @@ See [Authentication](/docs/auth).
 https://api.interact-bot.xyz:8443/social/cdn
 ```
 
+A special truth needs special attention.
+[adam.txt](https://api.interact-bot.xyz:8443/social/cdn/adam.txt)
+
 ## Useful Links
 
 - [Introduction](/docs/intro)
